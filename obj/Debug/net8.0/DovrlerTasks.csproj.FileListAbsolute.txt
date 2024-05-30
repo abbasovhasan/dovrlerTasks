@@ -1,0 +1,14 @@
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\bin\Debug\net8.0\DovrlerTasks.exe
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\bin\Debug\net8.0\DovrlerTasks.deps.json
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\bin\Debug\net8.0\DovrlerTasks.runtimeconfig.json
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\bin\Debug\net8.0\DovrlerTasks.dll
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\bin\Debug\net8.0\DovrlerTasks.pdb
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\obj\Debug\net8.0\DovrlerTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\obj\Debug\net8.0\DovrlerTasks.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\obj\Debug\net8.0\DovrlerTasks.AssemblyInfo.cs
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\obj\Debug\net8.0\DovrlerTasks.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\obj\Debug\net8.0\DovrlerTasks.dll
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\obj\Debug\net8.0\refint\DovrlerTasks.dll
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\obj\Debug\net8.0\DovrlerTasks.pdb
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\obj\Debug\net8.0\DovrlerTasks.genruntimeconfig.cache
+C:\Users\abbas\source\repos\DovrlerTasks\DovrlerTasks\obj\Debug\net8.0\ref\DovrlerTasks.dll
